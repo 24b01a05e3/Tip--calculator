@@ -1,4 +1,4 @@
-A Color Picker is an interactive tool used to select, customize, and manage colors in digital applications. It allows users to choose colors visually through color palettes, sliders, or color wheels instead of manually remembering color codes. This makes color selection easier, faster, and more accurate.
+vA Color Picker is an interactive tool used to select, customize, and manage colors in digital applications. It allows users to choose colors visually through color palettes, sliders, or color wheels instead of manually remembering color codes. This makes color selection easier, faster, and more accurate.
 
 Color pickers support multiple color formats such as RGB (Red, Green, Blue), HEX (Hexadecimal), and HSL (Hue, Saturation, Lightness). When a user selects a color, the tool instantly displays its code values, which can be directly used in web development, graphic design, or UI/UX projects. This ensures consistency in color usage across designs.
 
